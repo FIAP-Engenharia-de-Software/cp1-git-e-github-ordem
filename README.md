@@ -10,3 +10,10 @@ A aplicação busca oferecer uma experiência intuitiva, permitindo que os usuá
 HTML
 CSS
 Git e GItHub
+
+👨‍💻 Integrantes do grupo
+Fernando Eiji Tanaka - RM 570871
+Alexandre Jardim de Souza - RM 573744
+Kauã Kanin Kagawa - RM 571461
+Joao Pedro Belon - RM 571392
+Victor David Mita Mamani - RM 571973
