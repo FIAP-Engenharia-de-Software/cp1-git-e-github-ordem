@@ -17,3 +17,6 @@ Alexandre Jardim de Souza - RM 573744
 Kauã Kanin Kagawa - RM 571461
 Joao Pedro Belon - RM 571392
 Victor David Mita Mamani - RM 571973
+
+🌐 Link para o GitHub Pages
+https://fiap-engenharia-de-software.github.io/cp1-git-e-github-ordem/
